@@ -3,6 +3,7 @@
 public class Umbrella {
     public static void main(String[] args) {
 //        Scanner scanner = new Scanner(System.in);
+        System.out.println("Willkommen im Sonnenschein");
 
         double height = 0.0;
         double radius = 0.0;
